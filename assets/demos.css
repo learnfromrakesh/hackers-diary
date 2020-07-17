@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+hr{
+	border: 0;
+	border-bottom: #CCC 2px solid;
+	margin: 30px auto;
+}
+
+
+
+.type-wrap{
+	margin:10px auto;
+	padding:20px;
+	
+}
+
+
